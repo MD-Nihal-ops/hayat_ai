@@ -1,0 +1,93 @@
+[
+  {
+    "id": "steppi",
+    "name": "STEPPI",
+    "organiser": "STEPPI DMCC",
+    "kind": "app",
+    "summary": "STEPPI is a free fitness app by STEPPI DMCC with challenges and rewards redeemable with partner brands in the UAE; it reads activity from wearables or the phone.",
+    "sourceName": "App Store listing",
+    "sourceUrl": "https://apps.apple.com/ae/app/steppi/id1496731586",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "app, no Hayat AI integration",
+    "verified": false
+  },
+  {
+    "id": "abu-dhabi-one-billion-steps",
+    "name": "Abu Dhabi \"One Billion Steps\" challenge",
+    "organiser": "STEPPI; Ministry of Health and Prevention Society; Department of Community Development; Abu Dhabi Sports Council",
+    "kind": "campaign",
+    "summary": "A past Abu Dhabi challenge launched with STEPPI, the Ministry of Health and Prevention Society, the Department of Community Development and the Abu Dhabi Sports Council.",
+    "sourceName": "Zawya",
+    "sourceUrl": "https://www.zawya.com/en/life/health/new-uae-challenge-launched-walk-1-bln-steps-in-6-weeks-qyfcy79w?amp=1",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "past campaign, year to verify",
+    "verified": false
+  },
+  {
+    "id": "dubai-ramadan-walking-challenge",
+    "name": "Dubai Ramadan walking challenge",
+    "organiser": "Dubai authority; STEPPI; Al Jalila Foundation",
+    "kind": "campaign",
+    "summary": "A Dubai Ramadan walking challenge supported Al Jalila Foundation, with steps counted through STEPPI.",
+    "sourceName": "Hi Dubai",
+    "sourceUrl": "https://focus.hidubai.com/can-you-walk-1-billion-steps-dubai-authority-announces-new-challenge-for-ramadan/",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "past campaign, year to verify",
+    "verified": false
+  },
+  {
+    "id": "sample-family-walk-week",
+    "name": "Family walk week",
+    "organiser": "Hayat AI sample",
+    "kind": "sample",
+    "summary": "A sample seven-day challenge for logging family walks manually.",
+    "sourceName": "Hayat AI sample",
+    "sourceUrl": "",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "SAMPLE, not a real campaign",
+    "verified": false
+  },
+  {
+    "id": "sample-hydration-habit",
+    "name": "Hydration habit",
+    "organiser": "Hayat AI sample",
+    "kind": "sample",
+    "summary": "A sample challenge for manually checking off a user-selected hydration habit each day.",
+    "sourceName": "Hayat AI sample",
+    "sourceUrl": "",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "SAMPLE, not a real campaign",
+    "verified": false
+  },
+  {
+    "id": "sample-sleep-routine",
+    "name": "Sleep routine",
+    "organiser": "Hayat AI sample",
+    "kind": "sample",
+    "summary": "A sample challenge for manually recording a user-selected sleep routine each day.",
+    "sourceName": "Hayat AI sample",
+    "sourceUrl": "",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "SAMPLE, not a real campaign",
+    "verified": false
+  },
+  {
+    "id": "sample-healthy-plate-week",
+    "name": "Healthy plate week",
+    "organiser": "Hayat AI sample",
+    "kind": "sample",
+    "summary": "A sample seven-day challenge for recording a user-defined plate habit manually.",
+    "sourceName": "Hayat AI sample",
+    "sourceUrl": "",
+    "officialUrl": "",
+    "checkedOn": "2026-11-10",
+    "status": "SAMPLE, not a real campaign",
+    "verified": false
+  }
+]

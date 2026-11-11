@@ -1,0 +1,67 @@
+{
+  "checkedOn": "2026-11-10",
+  "source": "https://api.xkiro.com/v1/models",
+  "note": "Public xKiro model-list metadata. Advertised capabilities may not guarantee identical runtime behavior. Structured JSON support is not declared by this listing and is probed separately.",
+  "models": [
+    {
+      "id": "mistralai/mistral-small-2603",
+      "displayName": "Mistral Small 4",
+      "accessTier": "free",
+      "vision": true,
+      "tools": true,
+      "reasoning": true,
+      "contextLength": 256000,
+      "maxOutputTokens": 65536,
+      "reasoningEfforts": ["none", "high"],
+      "defaultReasoningEffort": "none"
+    },
+    {
+      "id": "cohere/command-a-plus",
+      "displayName": "Cohere Command A+",
+      "accessTier": "free",
+      "vision": true,
+      "tools": true,
+      "reasoning": true,
+      "contextLength": 436000,
+      "maxOutputTokens": 64000,
+      "reasoningEfforts": ["high"],
+      "defaultReasoningEffort": "high"
+    },
+    {
+      "id": "sensenova/sensenova-6.8-flash-lite",
+      "displayName": "SenseNova 6.8 Flash-Lite",
+      "accessTier": "free",
+      "vision": true,
+      "tools": true,
+      "reasoning": true,
+      "contextLength": 262144,
+      "maxOutputTokens": 65536,
+      "reasoningEfforts": ["none", "low", "medium", "high"],
+      "defaultReasoningEffort": "medium"
+    },
+    {
+      "id": "mistralai/mistral-medium-3.5",
+      "displayName": "Mistral Medium 3.5",
+      "accessTier": "free",
+      "vision": true,
+      "tools": true,
+      "reasoning": true,
+      "contextLength": 256000,
+      "maxOutputTokens": 65536,
+      "reasoningEfforts": ["none", "high"],
+      "defaultReasoningEffort": "none"
+    }
+  ],
+  "geminiBaselineMetadata": {
+    "sourceModelId": "AI_MODEL_PRIMARY from the existing server environment",
+    "xkiroListingReference": "google/gemini-3.8-flash",
+    "vision": true,
+    "tools": true,
+    "reasoning": true,
+    "contextLength": 1000000,
+    "maxOutputTokens": 65536,
+    "reasoningEfforts": ["low", "medium", "high"],
+    "defaultReasoningEffort": "medium",
+    "note": "Use the existing primary model ID dynamically for the Gemini API baseline; do not use AI_MODEL_FALLBACK. The metadata reference may not match the configured primary model."
+  }
+}

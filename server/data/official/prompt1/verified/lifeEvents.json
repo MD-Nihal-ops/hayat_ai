@@ -1,0 +1,146 @@
+{
+  "lastVerifiedAt": "2026-11-09",
+  "sources": {
+    "havingABaby": {
+      "title": "Having a baby",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/having-a-baby",
+      "sourceUpdatedAt": "2026-11-04",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "mabroukMaYak": {
+      "title": "Mabrouk Ma Yak",
+      "authority": "Not stated on the reviewed U.AE page",
+      "url": "https://usrati.gov.ae/family/#/",
+      "sourceUpdatedAt": null,
+      "verificationStatus": "official_service_link_listed_by_uae_portal"
+    },
+    "schoolEducation": {
+      "title": "School Education (K-12)",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/education/school-education-k-12",
+      "sourceUpdatedAt": null,
+      "verificationStatus": "official_source_reviewed"
+    },
+    "marriages": {
+      "title": "Marriages",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/marriages",
+      "sourceUpdatedAt": null,
+      "verificationStatus": "official_source_reviewed"
+    },
+    "shariaMarriage": {
+      "title": "Marriage as per the Sharia law",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/marriages/marriage-as-per-the-sharia-law",
+      "sourceUpdatedAt": "2026-11-04",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "civilMarriage": {
+      "title": "Civil marriage",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/marriages/personal-status-affairs-for-non-muslims",
+      "sourceUpdatedAt": "2026-11-04",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "divorce": {
+      "title": "Divorce",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/divorce-in-the-uae",
+      "sourceUpdatedAt": "2026-11-04",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "deaths": {
+      "title": "Deaths",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Life-events/deaths",
+      "sourceUpdatedAt": "2026-11-04",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "schoolAdmissionAuthorities": {
+      "title": "Regulatory Authorities of K-12 Education",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/education/school-education-k-12/regulatory-authorities-of-k-12-education",
+      "sourceUpdatedAt": null,
+      "verificationStatus": "official_source_linked_from_uae_portal"
+    },
+    "leasing": {
+      "title": "Leasing a property in the UAE",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/moving-to-the-uae/leasing-a-property-in-the-uae",
+      "sourceUpdatedAt": "2026-10-27",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "publicUtilities": {
+      "title": "Public utilities",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/housing/public-utilities",
+      "sourceUpdatedAt": "2026-10-29",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "seniorEmiratis": {
+      "title": "Senior Emiratis",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/social-affairs/Priority-groups/senior-emiratis",
+      "sourceUpdatedAt": "2026-11-03",
+      "verificationStatus": "official_source_reviewed"
+    },
+    "pensions": {
+      "title": "Pensions and social security for UAE citizens",
+      "authority": "UAE Government Portal (U.AE)",
+      "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/working-in-uae-government-sector/pensions-and-social-security-for-uae-citizens",
+      "sourceUpdatedAt": null,
+      "verificationStatus": "official_source_reviewed"
+    }
+  },
+  "events": {
+    "new_baby": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "newBabyGap",
+      "sourceKeys": ["havingABaby", "mabroukMaYak"],
+      "steps": []
+    },
+    "child_school": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "schoolGap",
+      "sourceKeys": ["schoolEducation", "schoolAdmissionAuthorities"],
+      "steps": []
+    },
+    "marriage": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "marriageGap",
+      "sourceKeys": ["marriages", "shariaMarriage", "civilMarriage"],
+      "steps": []
+    },
+    "divorce": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "divorceGap",
+      "sourceKeys": ["divorce"],
+      "steps": []
+    },
+    "moving_home": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "movingGap",
+      "sourceKeys": ["leasing", "publicUtilities"],
+      "steps": []
+    },
+    "elderly_care": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "elderlyCareGap",
+      "sourceKeys": ["seniorEmiratis"],
+      "steps": []
+    },
+    "retirement": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "retirementGap",
+      "sourceKeys": ["pensions"],
+      "steps": []
+    },
+    "bereavement": {
+      "journeyStatus": "incomplete",
+      "missingInformationKey": "deathGap",
+      "sourceKeys": ["deaths"],
+      "steps": []
+    }
+  }
+}

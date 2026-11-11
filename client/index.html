@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="theme-color" content="#f5f8f7" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" type="image/png" href="/assets/hayat-ai-logo.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title></title>
+    <script>
+      (() => {
+        let theme = "system";
+        let highContrast = false;
+        let language = "en";
+        try {
+          const preferences = JSON.parse(localStorage.getItem("hayat-accessibility-settings") || "{}");
+          if (["light", "dark", "system"].includes(preferences.theme)) theme = preferences.theme;
+          highContrast = preferences.highContrast === true;
+          const savedLanguage = localStorage.getItem("hayat-language");
+          if (["en", "ar", "hi", "ml"].includes(savedLanguage)) language = savedLanguage;
+        } catch {
+          theme = "system";
+        }
+        const isDark = !highContrast && (theme === "dark" || (theme === "system" && matchMedia("(prefers-color-scheme: dark)").matches));
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.classList.toggle("dark", isDark);
+        document.documentElement.classList.toggle("high-contrast", highContrast);
+        document.documentElement.lang = language;
+        document.documentElement.dir = language === "ar" ? "rtl" : "ltr";
+        document.querySelector('meta[name="theme-color"]').content = isDark ? "#081b14" : "#f5f9f7";
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

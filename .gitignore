@@ -1,0 +1,41 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+server/.env
+
+# Database files
+server/data/*.db
+
+# Preserve official verified life events data
+!server/data/official/
+server/data/official/*
+!server/data/official/prompt1/
+server/data/official/prompt1/*
+!server/data/official/prompt1/verified/
+server/data/official/prompt1/verified/*
+!server/data/official/prompt1/verified/lifeEvents.json
+
+# Cached and generated data
+server/data/facilitiesCache.json
+server/data/places/
+server/data/registeredMedicines.json
+server/data/officialFacilities.json
+
+# Uploads
+server/uploads/
+server/private-uploads/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store

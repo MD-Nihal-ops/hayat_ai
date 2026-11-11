@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "purehealth",
+    "name": "PureHealth",
+    "kind": "private",
+    "category": "Integrated healthcare group",
+    "categoryGroup": "group",
+    "website": "https://purehealth.ae",
+    "phone": "+971 4 447 3338",
+    "specializations": [
+      "Multi-specialty",
+      "diagnostics",
+      "insurance",
+      "pharmacies",
+      "labs"
+    ],
+    "branches": [
+      "SEHA",
+      "Daman",
+      "Rafed",
+      "PureLab",
+      "PureHealth facilities"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=PureHealth+Abu+Dhabi",
+    "nameKeywords": [
+      "purehealth",
+      "seha",
+      "daman",
+      "rafed",
+      "purelab"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": "",
+    "_comment": "Generated from a researched directory file. Everything TO VERIFY from each provider's official site before use."
+  },
+  {
+    "id": "aster-dm-healthcare",
+    "name": "Aster DM Healthcare",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "https://www.asterhospitals.ae",
+    "phone": "+971 4 440 0500",
+    "specializations": [
+      "Multi-specialty",
+      "cardiology",
+      "orthopedics",
+      "maternity",
+      "pediatrics",
+      "general medicine"
+    ],
+    "branches": [
+      "Aster Hospital",
+      "Aster Clinic",
+      "Aster Pharmacy"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Aster+Hospitals+UAE",
+    "nameKeywords": [
+      "aster dm",
+      "aster hospital",
+      "aster clinic",
+      "aster dm healthcare"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "nmc-healthcare",
+    "name": "NMC Healthcare",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "https://nmc.ae",
+    "phone": "+971 2 497 8311",
+    "specializations": [
+      "Multi-specialty",
+      "maternity",
+      "cardiology",
+      "oncology",
+      "orthopedics"
+    ],
+    "branches": [
+      "NMC Hospitals",
+      "NMC Clinics",
+      "NMC Pharmacies"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=NMC+Healthcare+UAE",
+    "nameKeywords": [
+      "nmc healthcare",
+      "nmc hospital",
+      "nmc royal",
+      "nmc hospitals",
+      "nmc clinics",
+      "nmc pharmacies"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "burjeel-holdings",
+    "name": "Burjeel Holdings",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "https://burjeelholdings.com",
+    "phone": "80055",
+    "specializations": [
+      "Multi-specialty",
+      "maternity",
+      "cardiology",
+      "oncology",
+      "rehabilitation"
+    ],
+    "branches": [
+      "Burjeel",
+      "Medeor",
+      "LLH",
+      "Lifecare"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Burjeel+Holdings+UAE",
+    "nameKeywords": [
+      "burjeel",
+      "medeor",
+      "lifecare hospital",
+      "burjeel holdings"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "mediclinic-middle-east",
+    "name": "Mediclinic Middle East",
+    "kind": "private",
+    "category": "Hospitals, clinics",
+    "categoryGroup": "group",
+    "website": "https://www.mediclinic.ae",
+    "phone": "800 1999",
+    "specializations": [
+      "Multi-specialty",
+      "cardiology",
+      "oncology",
+      "maternity",
+      "pediatrics"
+    ],
+    "branches": [
+      "Mediclinic City Hospital",
+      "Mediclinic hospitals and clinics"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Mediclinic+Middle+East+UAE",
+    "nameKeywords": [
+      "mediclinic",
+      "mediclinic middle east",
+      "mediclinic city hospital",
+      "mediclinic hospitals and clinics"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "dubai-health",
+    "name": "Dubai Health",
+    "kind": "government",
+    "category": "Hospitals, health centers",
+    "categoryGroup": "group",
+    "website": "https://dubaihealth.ae",
+    "phone": "800 60",
+    "specializations": [
+      "Multi-specialty",
+      "emergency",
+      "maternity",
+      "pediatrics",
+      "dental"
+    ],
+    "branches": [
+      "Rashid Hospital",
+      "Dubai Hospital",
+      "Latifa Hospital",
+      "Hatta Hospital",
+      "Al Jalila Children's",
+      "Jebel Ali Hospital"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Dubai+Health+UAE",
+    "nameKeywords": [
+      "rashid hospital",
+      "dubai hospital",
+      "latifa hospital",
+      "hatta hospital",
+      "dubai health",
+      "al jalila children s",
+      "jebel ali hospital"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "emirates-health-services",
+    "name": "Emirates Health Services",
+    "kind": "government",
+    "category": "Hospitals, health centers",
+    "categoryGroup": "group",
+    "website": "https://www.ehs.gov.ae",
+    "phone": "800 8877",
+    "specializations": [
+      "Primary care",
+      "specialty care",
+      "hospitals",
+      "public health"
+    ],
+    "branches": [
+      "EHS hospitals and health centers across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Emirates+Health+Services+UAE",
+    "nameKeywords": [
+      "emirates health services"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "thumbay-group",
+    "name": "Thumbay Group",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "https://thumbay.com",
+    "phone": "+971 4 298 5555",
+    "specializations": [
+      "Multi-specialty",
+      "dental",
+      "pharmacy",
+      "education"
+    ],
+    "branches": [
+      "Thumbay Hospital",
+      "Thumbay Clinic",
+      "Thumbay Pharmacy"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Thumbay+Group+UAE",
+    "nameKeywords": [
+      "thumbay",
+      "thumbay group",
+      "thumbay hospital",
+      "thumbay clinic",
+      "thumbay pharmacy"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "zulekha-healthcare-group",
+    "name": "Zulekha Healthcare Group",
+    "kind": "private",
+    "category": "Hospitals",
+    "categoryGroup": "hospital",
+    "website": "https://www.zulekhahospitals.com",
+    "phone": "600 52 4442",
+    "specializations": [
+      "Multi-specialty",
+      "maternity",
+      "cardiology",
+      "orthopedics"
+    ],
+    "branches": [
+      "Zulekha Hospital Dubai",
+      "Zulekha Hospital Sharjah"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Zulekha+Hospital+UAE",
+    "nameKeywords": [
+      "zulekha",
+      "zulekha healthcare group",
+      "zulekha hospital dubai",
+      "zulekha hospital sharjah"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "saudi-german-health",
+    "name": "Saudi German Health",
+    "kind": "private",
+    "category": "Hospitals",
+    "categoryGroup": "hospital",
+    "website": "https://www.saudigerman.com",
+    "phone": "800 2211",
+    "specializations": [
+      "Multi-specialty",
+      "cardiology",
+      "oncology",
+      "maternity"
+    ],
+    "branches": [
+      "Saudi German Hospital Dubai",
+      "Saudi German Hospital Sharjah",
+      "Saudi German Hospital Ajman"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Saudi+German+Hospital+UAE",
+    "nameKeywords": [
+      "saudi german",
+      "saudi german health",
+      "saudi german hospital dubai",
+      "saudi german hospital sharjah",
+      "saudi german hospital ajman"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "emirates-hospitals-group",
+    "name": "Emirates Hospitals Group",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "https://emirateshospitals.ae",
+    "phone": "800 444 444",
+    "specializations": [
+      "Multi-specialty",
+      "emergency",
+      "surgery",
+      "maternity",
+      "pharmacy"
+    ],
+    "branches": [
+      "Emirates Hospital Jumeirah",
+      "Emirates Hospital Clinic",
+      "Emirates Pharmacy"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Emirates+Hospitals+Group+UAE",
+    "nameKeywords": [
+      "emirates hospitals group",
+      "emirates hospital jumeirah",
+      "emirates hospital clinic"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "prime-healthcare-group",
+    "name": "PRIME Healthcare Group",
+    "kind": "private",
+    "category": "Hospitals, clinics, pharmacies",
+    "categoryGroup": "group",
+    "website": "",
+    "phone": "04 707 0999",
+    "specializations": [
+      "Multi-specialty",
+      "general medicine",
+      "pediatrics",
+      "diagnostics"
+    ],
+    "branches": [
+      "PRIME Hospital",
+      "PRIME Medical Centers",
+      "PRIME Pharmacies"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=PRIME+Healthcare+Group+UAE",
+    "nameKeywords": [
+      "prime healthcare group",
+      "prime hospital",
+      "prime medical centers",
+      "prime pharmacies"
+    ],
+    "dataStatus": "Verified contact",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "al-zahra-hospital",
+    "name": "Al Zahra Hospital",
+    "kind": "private",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://azhd.ae",
+    "phone": "+971 4 378 6666",
+    "specializations": [
+      "Multi-specialty",
+      "maternity",
+      "cardiology",
+      "oncology",
+      "surgery"
+    ],
+    "branches": [
+      "Al Zahra Hospital Dubai",
+      "Al Zahra Hospital Sharjah"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Al+Zahra+Hospital+UAE",
+    "nameKeywords": [
+      "al zahra hospital",
+      "al zahra hospital dubai",
+      "al zahra hospital sharjah"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "canadian-specialist-hospital",
+    "name": "Canadian Specialist Hospital",
+    "kind": "private",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://www.csh.ae",
+    "phone": "+971 4 707 2222",
+    "specializations": [
+      "Multi-specialty",
+      "surgery",
+      "cardiology",
+      "orthopedics"
+    ],
+    "branches": [
+      "Canadian Specialist Hospital Dubai"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Canadian+Specialist+Hospital+Dubai",
+    "nameKeywords": [
+      "canadian specialist hospital",
+      "canadian specialist hospital dubai"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "fakeeh-university-hospital",
+    "name": "Fakeeh University Hospital",
+    "kind": "private",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://fakeeh.university",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "digital health",
+      "surgery",
+      "maternity"
+    ],
+    "branches": [
+      "Fakeeh University Hospital Dubai"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Fakeeh+University+Hospital+Dubai",
+    "nameKeywords": [
+      "fakeeh university hospital",
+      "fakeeh university hospital dubai"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "medcare",
+    "name": "Medcare",
+    "kind": "private",
+    "category": "Hospitals, clinics",
+    "categoryGroup": "group",
+    "website": "https://www.medcare.ae",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "pediatrics",
+      "maternity",
+      "orthopedics"
+    ],
+    "branches": [
+      "Medcare Hospital",
+      "Medcare Clinics"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Medcare+UAE",
+    "nameKeywords": [
+      "medcare",
+      "medcare hospital",
+      "medcare clinics"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "healthhub",
+    "name": "HealthHub",
+    "kind": "private",
+    "category": "Clinics, pharmacies",
+    "categoryGroup": "clinic",
+    "website": "https://www.healthhub.com",
+    "phone": "",
+    "specializations": [
+      "Primary care",
+      "diagnostics",
+      "pharmacy",
+      "telehealth"
+    ],
+    "branches": [
+      "HealthHub Clinics",
+      "HealthHub Pharmacies"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=HealthHub+UAE",
+    "nameKeywords": [
+      "healthhub",
+      "healthhub clinics",
+      "healthhub pharmacies"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "aster-pharmacy",
+    "name": "Aster Pharmacy",
+    "kind": "private",
+    "category": "Pharmacy chain",
+    "categoryGroup": "pharmacy",
+    "website": "https://www.asterpharmacy.com",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "prescription",
+      "wellness"
+    ],
+    "branches": [
+      "Aster Pharmacy branches across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Aster+Pharmacy+UAE",
+    "nameKeywords": [],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "life-pharmacy",
+    "name": "Life Pharmacy",
+    "kind": "private",
+    "category": "Pharmacy chain",
+    "categoryGroup": "pharmacy",
+    "website": "https://www.lifepharmacy.com",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "prescription",
+      "wellness"
+    ],
+    "branches": [
+      "Life Pharmacy branches across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Life+Pharmacy+UAE",
+    "nameKeywords": [
+      "life pharmacy"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "binsina-pharmacy",
+    "name": "BinSina Pharmacy",
+    "kind": "private",
+    "category": "Pharmacy chain",
+    "categoryGroup": "pharmacy",
+    "website": "https://www.binsina.ae",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "prescription",
+      "wellness"
+    ],
+    "branches": [
+      "BinSina Pharmacy branches across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=BinSina+Pharmacy+UAE",
+    "nameKeywords": [
+      "binsina pharmacy"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "supercare-pharmacy",
+    "name": "Supercare Pharmacy",
+    "kind": "private",
+    "category": "Pharmacy chain",
+    "categoryGroup": "pharmacy",
+    "website": "https://www.supercarepharmacy.com",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "prescription",
+      "wellness"
+    ],
+    "branches": [
+      "Supercare Pharmacy branches across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Supercare+Pharmacy+UAE",
+    "nameKeywords": [
+      "supercare pharmacy"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "boots-uae",
+    "name": "Boots UAE",
+    "kind": "private",
+    "category": "Pharmacy chain",
+    "categoryGroup": "pharmacy",
+    "website": "https://www.boots-uae.com",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "health",
+      "beauty"
+    ],
+    "branches": [
+      "Boots Pharmacy branches across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Boots+Pharmacy+UAE",
+    "nameKeywords": [
+      "boots uae"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "emirates-pharmacy",
+    "name": "Emirates Pharmacy",
+    "kind": "private",
+    "category": "Pharmacy",
+    "categoryGroup": "pharmacy",
+    "website": "https://emiratespharmacy.ae",
+    "phone": "",
+    "specializations": [
+      "Retail pharmacy",
+      "prescription"
+    ],
+    "branches": [
+      "Emirates Pharmacy branches"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Emirates+Pharmacy+UAE",
+    "nameKeywords": [],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "danat-al-emarat-hospital",
+    "name": "Danat Al Emarat Hospital",
+    "kind": "private",
+    "category": "Maternity / women's hospital",
+    "categoryGroup": "specialty",
+    "website": "https://www.danatalmarat.com",
+    "phone": "",
+    "specializations": [
+      "Maternity",
+      "gynecology",
+      "pediatrics",
+      "neonatology"
+    ],
+    "branches": [
+      "Danat Al Emarat Hospital Abu Dhabi"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Danat+Al+Emarat+Hospital+Abu+Dhabi",
+    "nameKeywords": [
+      "danat al emarat hospital",
+      "danat al emarat hospital abu dhabi"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "sheikh-shakhbout-medical-city",
+    "name": "Sheikh Shakhbout Medical City",
+    "kind": "government",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://www.ssmc.ae",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "tertiary care",
+      "surgery",
+      "critical care"
+    ],
+    "branches": [
+      "Sheikh Shakhbout Medical City Abu Dhabi"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Sheikh+Shakhbout+Medical+City+Abu+Dhabi",
+    "nameKeywords": [
+      "sheikh shakhbout medical city",
+      "sheikh shakhbout medical city abu dhabi"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "cleveland-clinic-abu-dhabi",
+    "name": "Cleveland Clinic Abu Dhabi",
+    "kind": "private",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://www.clevelandclinicabudhabi.ae",
+    "phone": "",
+    "specializations": [
+      "Cardiac",
+      "neuro",
+      "oncology",
+      "transplant",
+      "multi-specialty"
+    ],
+    "branches": [
+      "Cleveland Clinic Abu Dhabi"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Cleveland+Clinic+Abu+Dhabi",
+    "nameKeywords": [
+      "cleveland clinic abu dhabi"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "sheikh-khalifa-medical-city",
+    "name": "Sheikh Khalifa Medical City",
+    "kind": "government",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://www.seha.ae",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "tertiary care",
+      "emergency"
+    ],
+    "branches": [
+      "Sheikh Khalifa Medical City Abu Dhabi"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Sheikh+Khalifa+Medical+City+Abu+Dhabi",
+    "nameKeywords": [
+      "sheikh khalifa medical city",
+      "sheikh khalifa medical city abu dhabi"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "al-ain-hospital",
+    "name": "Al Ain Hospital",
+    "kind": "government",
+    "category": "Hospital",
+    "categoryGroup": "hospital",
+    "website": "https://www.alainhospital.ae",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "emergency",
+      "surgery",
+      "maternity"
+    ],
+    "branches": [
+      "Al Ain Hospital"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Al+Ain+Hospital",
+    "nameKeywords": [
+      "al ain hospital"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "m42",
+    "name": "M42",
+    "kind": "private",
+    "category": "Healthcare and diagnostics group",
+    "categoryGroup": "group",
+    "website": "https://m42.ae",
+    "phone": "",
+    "specializations": [
+      "Diagnostics",
+      "digital health",
+      "hospitals",
+      "labs"
+    ],
+    "branches": [
+      "M42 health entities and partners"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=M42+UAE",
+    "nameKeywords": [],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "imperial-college-london-diabetes-centre",
+    "name": "Imperial College London Diabetes Centre",
+    "kind": "private",
+    "category": "Specialty clinic",
+    "categoryGroup": "specialty",
+    "website": "https://www.icldc.ae",
+    "phone": "",
+    "specializations": [
+      "Diabetes",
+      "endocrinology",
+      "metabolic health"
+    ],
+    "branches": [
+      "Imperial College London Diabetes Centre Abu Dhabi"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Imperial+College+London+Diabetes+Centre+Abu+Dhabi",
+    "nameKeywords": [
+      "imperial college london diabetes centre",
+      "imperial college london diabetes centre abu dhabi"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "healthplus",
+    "name": "HealthPlus",
+    "kind": "private",
+    "category": "Clinics",
+    "categoryGroup": "clinic",
+    "website": "https://healthplus.ae",
+    "phone": "",
+    "specializations": [
+      "Primary care",
+      "specialty clinics",
+      "women's health"
+    ],
+    "branches": [
+      "HealthPlus clinics across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=HealthPlus+UAE",
+    "nameKeywords": [
+      "healthplus"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "moorfields-eye-hospital-uae",
+    "name": "Moorfields Eye Hospital UAE",
+    "kind": "private",
+    "category": "Specialty hospital",
+    "categoryGroup": "specialty",
+    "website": "https://www.moorfields.ae",
+    "phone": "",
+    "specializations": [
+      "Ophthalmology",
+      "eye surgery",
+      "retina",
+      "cornea"
+    ],
+    "branches": [
+      "Moorfields Eye Hospital UAE branches"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Moorfields+Eye+Hospital+UAE",
+    "nameKeywords": [
+      "moorfields eye hospital uae"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "al-jalila-children-s-specialty-hospital",
+    "name": "Al Jalila Children's Specialty Hospital",
+    "kind": "government",
+    "category": "Pediatric hospital",
+    "categoryGroup": "specialty",
+    "website": "https://www.aljalilachildrens.com",
+    "phone": "",
+    "specializations": [
+      "Pediatrics",
+      "cardiology",
+      "neurology",
+      "oncology"
+    ],
+    "branches": [
+      "Al Jalila Children's Specialty Hospital Dubai"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Al+Jalila+Children's+Specialty+Hospital+Dubai",
+    "nameKeywords": [
+      "al jalila children s specialty hospital",
+      "al jalila children s specialty hospital dubai"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "dr-sulaiman-al-habib-medical-group",
+    "name": "Dr. Sulaiman Al Habib Medical Group",
+    "kind": "private",
+    "category": "Hospitals, clinics",
+    "categoryGroup": "group",
+    "website": "https://www.drsumc.com",
+    "phone": "",
+    "specializations": [
+      "Multi-specialty",
+      "cardiology",
+      "orthopedics",
+      "maternity"
+    ],
+    "branches": [
+      "Dr. Sulaiman Al Habib hospitals and clinics"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Dr+Sulaiman+Al+Habib+UAE",
+    "nameKeywords": [
+      "dr sulaiman al habib medical group",
+      "dr sulaiman al habib hospitals and clinics"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "al-borg-medical-laboratories",
+    "name": "Al Borg Medical Laboratories",
+    "kind": "private",
+    "category": "Diagnostics / labs",
+    "categoryGroup": "diagnostics",
+    "website": "https://www.alborg.com",
+    "phone": "",
+    "specializations": [
+      "Laboratory diagnostics",
+      "pathology",
+      "imaging"
+    ],
+    "branches": [
+      "Al Borg labs across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Al+Borg+Medical+Laboratories+UAE",
+    "nameKeywords": [
+      "al borg medical laboratories"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  },
+  {
+    "id": "metropolis-healthcare-uae",
+    "name": "Metropolis Healthcare UAE",
+    "kind": "private",
+    "category": "Diagnostics / labs",
+    "categoryGroup": "diagnostics",
+    "website": "https://www.metropolishealth.com",
+    "phone": "",
+    "specializations": [
+      "Laboratory diagnostics",
+      "pathology"
+    ],
+    "branches": [
+      "Metropolis labs across UAE"
+    ],
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Metropolis+Healthcare+UAE",
+    "nameKeywords": [
+      "metropolis healthcare uae"
+    ],
+    "dataStatus": "Contact to verify",
+    "websiteVerified": false,
+    "phoneVerified": false,
+    "lastChecked": ""
+  }
+]

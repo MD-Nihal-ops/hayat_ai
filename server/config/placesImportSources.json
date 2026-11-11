@@ -1,0 +1,42 @@
+{
+  "healthcare-catalogue": {
+    "sourceFile": "data/official/wellness_centers_consolidated.xlsx",
+    "sheet": "Sheet1",
+    "headerRow": 1,
+    "layer": "healthcare",
+    "outputFile": "data/places/healthcare.json",
+    "columns": {
+      "name": "Facility Name",
+      "address": "Approximate Address",
+      "emirate": "City / Emirate",
+      "lat": "Latitude",
+      "lng": "Longitude",
+      "mapsUrl": "Google Maps Link",
+      "osmUrl": "OpenStreetMap Link",
+      "sourceMatch": "OSM ID / Nominatim Match",
+      "confidence": "Address Confidence",
+      "notes": "Source / Notes"
+    }
+  },
+  "healthy-food": {
+    "sourceFile": "data/official/Restaurent.xlsx",
+    "sheet": "Sheet1",
+    "headerRow": 1,
+    "layer": "food",
+    "outputFile": "data/places/food.json",
+    "columns": {
+      "name": "Facility / Brand Name",
+      "type": "Type",
+      "emirate": "City / Emirate",
+      "address": "Approximate Address",
+      "lat": "Latitude",
+      "lng": "Longitude",
+      "mapsUrl": "Google Maps Link",
+      "osmUrl": "OpenStreetMap Link",
+      "plans": "Health Plans / Offers",
+      "dietary": "Cuisine / Dietary",
+      "confidence": "Address Confidence",
+      "notes": "Source / Notes"
+    }
+  }
+}

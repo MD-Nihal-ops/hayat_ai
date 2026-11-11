@@ -1,0 +1,84 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "getRegisteredDrugProducts_MOH",
+    "description" : "This service is to get the registered drug products from MOHAP",
+    "version" : "1.0"
+  },
+  "servers" : [ {
+    "url" : "https://api.gsb.government.ae/gateway/getRegisteredDrugProducts_MOH/1.0"
+  } ],
+  "security" : [ {
+    "oAuth2Token" : [ ],
+    "apiKey" : [ ]
+  } ],
+  "tags" : [ {
+    "name" : "Medicines"
+  }, {
+    "name" : "Health Products"
+  } ],
+  "paths" : {
+    "/getdrugs" : {
+      "summary" : "getDrugs",
+      "description" : "This resource is to get the registered drug products from MOHAP",
+      "post" : {
+        "summary" : "getdrugs",
+        "description" : "This method is to get the registered drug products from MOHAP",
+        "operationId" : "getdrugs",
+        "parameters" : [ {
+          "name" : "clientid",
+          "in" : "header",
+          "description" : "clientid",
+          "required" : true,
+          "allowEmptyValue" : false,
+          "schema" : {
+            "type" : "string",
+            "enum" : [ "default" ]
+          }
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : { },
+              "example" : "{ \n\"pagenumber\":\"1\"\n}"
+            }
+          }
+        },
+        "responses" : { }
+      },
+      "parameters" : [ ],
+      "extensions" : {
+        "x-softwareag-resource-description" : "This resource is to get the registered drug products from MOHAP",
+        "x-softwareag-resource-name" : "getDrugs"
+      }
+    }
+  },
+  "components" : {
+    "schemas" : { },
+    "responses" : { },
+    "parameters" : { },
+    "examples" : { },
+    "requestBodies" : { },
+    "headers" : { },
+    "securitySchemes" : {
+      "oAuth2Token" : {
+        "type" : "oauth2",
+        "flows" : {
+          "clientCredentials" : {
+            "tokenUrl" : "https://api.gsb.government.ae/invoke/pub.apigateway.oauth2/getAccessToken",
+            "scopes" : {
+              "c12b08a3-4ee3-11ed-ad16-9d11b6d308c8" : ""
+            }
+          }
+        }
+      },
+      "apiKey" : {
+        "type" : "apiKey",
+        "name" : "GW-APIKey",
+        "in" : "header"
+      }
+    },
+    "links" : { },
+    "callbacks" : { }
+  }
+}

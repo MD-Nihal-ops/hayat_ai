@@ -1,0 +1,48 @@
+{
+  "_note": "Specialty list and keywords TO VERIFY with a clinician.",
+  "general_practice": {
+    "nameKeywords": ["general practice", "general practitioner", "family medicine", "طب عام", "طبيب عام", "طب الأسرة", "طب الاسرة"]
+  },
+  "dermatology": {
+    "nameKeywords": ["dermatology", "dermatologist", "skin clinic", "جلدية", "الأمراض الجلدية", "امراض الجلد"]
+  },
+  "ent": {
+    "nameKeywords": ["ear nose throat", "otolaryngology", "otorhinolaryngology", "ent", "أنف وأذن وحنجرة", "انف واذن وحنجرة"]
+  },
+  "ophthalmology": {
+    "nameKeywords": ["ophthalmology", "ophthalmologist", "eye clinic", "عيون", "طب العيون", "طب وجراحة العيون"]
+  },
+  "cardiology": {
+    "nameKeywords": ["cardiology", "cardiologist", "cardiac", "قلب", "أمراض القلب", "امراض القلب"]
+  },
+  "orthopedics": {
+    "nameKeywords": ["orthopedics", "orthopaedics", "orthopedic", "orthopaedic", "عظام", "جراحة العظام"]
+  },
+  "pediatrics": {
+    "nameKeywords": ["pediatrics", "paediatrics", "pediatrician", "paediatrician", "أطفال", "طب الأطفال", "طب الاطفال"]
+  },
+  "obstetrics_gynecology": {
+    "nameKeywords": ["obstetrics", "gynecology", "gynaecology", "ob-gyn", "نساء وولادة", "أمراض النساء والتوليد", "امراض النساء والتوليد"]
+  },
+  "dentistry": {
+    "nameKeywords": ["dentistry", "dentist", "dental", "أسنان", "طب الأسنان", "طب الاسنان"]
+  },
+  "neurology": {
+    "nameKeywords": ["neurology", "neurologist", "brain and nerve", "مخ وأعصاب", "مخ واعصاب", "طب الأعصاب", "طب الاعصاب"]
+  },
+  "gastroenterology": {
+    "nameKeywords": ["gastroenterology", "gastroenterologist", "digestive", "الجهاز الهضمي", "أمراض الجهاز الهضمي", "امراض الجهاز الهضمي"]
+  },
+  "mental_health": {
+    "nameKeywords": ["mental health", "psychiatry", "psychiatrist", "psychology", "الصحة النفسية", "الطب النفسي", "نفسي"]
+  },
+  "urology": {
+    "nameKeywords": ["urology", "urologist", "urinary", "المسالك البولية", "طب المسالك البولية"]
+  },
+  "endocrinology": {
+    "nameKeywords": ["endocrinology", "endocrinologist", "endocrine", "الغدد الصماء", "الغدد"]
+  },
+  "pulmonology": {
+    "nameKeywords": ["pulmonology", "pulmonologist", "respiratory medicine", "أمراض الرئة", "امراض الرئة", "الصدرية"]
+  }
+}
